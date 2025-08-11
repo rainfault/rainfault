@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakhar</h1>
-<h3 align="center">C++ / Python developer from Moscow</h3>
+<h3 align="center">C++ developer from Moscow</h3>
 
 - 🌱 I’m currently learning **Django, PyTorch, STL, C++23**
 
